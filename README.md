@@ -10,7 +10,7 @@ It's very simple to use：
 
 2.Use  `- (void)limitTextLength:(NSInteger)length;`  to limit word count
 
-3.Ban  `limitTextEmoji`    with Emoji
+3.`limitTextEmoji`    Prohibit Emoji input
 
 
 
